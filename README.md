@@ -1,1 +1,1 @@
-# -jenkins-example-symfony
+# jenkins-example-symfony
